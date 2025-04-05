@@ -2,6 +2,6 @@ Fork: This refers to creating a copy of someone else's repository and adding it 
 Branch: it`s the root of your project 
 Merge: as you can see merge is when you combine your branch into your main branch 
 Pull Request: when  making some changes on Someone's Repo and requesting your changes insert into The owner of the Repo that you are copying 
-alias: for making syntax if want to write long command in git bash
+alias: for making syntax if want to write more shoter command
 status: for checking an update in your project
 
